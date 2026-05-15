@@ -83,9 +83,14 @@ function App() {
         </div>
       </div>
 
-      <p style={{ marginTop: "20px" }}>
-        คลิกแมวเพื่อเพิ่มคะแนน!
-      </p>
+      <p 
+  style={{ 
+    marginTop: "80px",
+    fontSize: "20px"
+  }}
+>
+  คลิกแมวเพื่อเพิ่มคะแนน!
+</p>
     </div>
   )
 }
